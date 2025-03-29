@@ -15,8 +15,8 @@ Cyberthon is an AI-driven cybercrime classification system designed to assist la
 
 ## 🎯 Model Performance
 
-- **Category Accuracy Prediction**: 82.83% (8283350237548711)
-- **Sub-Category Accuracy Prediction**: 69.60% (6960017082154487)
+- **Category Accuracy Prediction**: 82.83% (82.83350237548711)
+- **Sub-Category Accuracy Prediction**: 69.60% (69.60017082154487)
 
 ## 🛠 Tech Stack & Libraries Used
 
